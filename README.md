@@ -1,4 +1,4 @@
-# Selective Naïve Bayes Algorithm
+# Selective Naïve Bayes Algorithm Project
 Implementation of Selective Naïve Bayes Algorithm presented in the article and comparing its effectiveness with the classical Bayesian algorithm on several datasets.
 Project was made for Machine Learning 2 course at AGH.
 
